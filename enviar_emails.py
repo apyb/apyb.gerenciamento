@@ -115,6 +115,8 @@ if __name__ == '__main__':
                'email': 'web2py-users-brazil@googlegroups.com'},
               {'gentilico': 'da APyB-ConDir',
                'email': 'apyb-condir@googlegroups.com'},
+              {'gentilico': 'piauienses',
+               'email': 'python-pi@googlegroups.com'},
     ]
 
     for row in emails:
