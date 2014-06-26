@@ -117,6 +117,9 @@ if __name__ == '__main__':
                'email': 'apyb-condir@googlegroups.com'},
               {'gentilico': 'piauienses',
                'email': 'python-pi@googlegroups.com'},
+              {'gentilico': 'tocantinenses',
+               'email': 'py-to@googlegroups.com'},
+               
     ]
 
     for row in emails:
